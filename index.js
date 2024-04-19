@@ -12,7 +12,7 @@ function getConnection(){
             role: 'EGRESSTEST_SPCS_ROLE',
             warehouse: 'APPSERVICE_WH',
             username: 'test_spcs_usr',
-            password: "XXXXX",
+            password: "XXXXXXX",
         });       
         conn.connect( 
             function(err, conn) {
